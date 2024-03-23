@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1710948921 source:d:\long\projects\atm_management\atm_management\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<stdlib.h>
-
